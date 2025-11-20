@@ -1,0 +1,23 @@
+<resources>
+    <style name="Theme.PorcenCalBeta" parent="Theme.AppCompat.NoActionBar">
+        <!-- Primary brand color -->
+        <item name="colorPrimary">@color/whitelight</item>
+        <item name="colorPrimaryVariant">@color/white</item>
+        <item name="colorOnPrimary">@color/silver</item>
+
+        <!-- Secondary brand color -->
+        <item name="colorSecondary">@color/silver</item>
+        <item name="colorSecondaryVariant">@color/silverlight</item>
+        <item name="colorOnSecondary">@color/silver</item>
+
+        <!-- Status bar color -->
+        <item name="android:statusBarColor">@color/white</item>
+
+        <!-- Additional customizations can be added here -->
+    </style>
+
+    <style name="PopupMenu" parent="Widget.AppCompat.PopupMenu">
+        <!-- Customize your popup menu style here. -->
+        <item name="android:popupBackground">@color/white</item>
+    </style>
+</resources>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PorcSmart Beta</string>
+    <string name="aceptar">Accept</string>
+    <string name="valor_inicial">Initial value</string>
+    <string name="incremento">5% Increase</string>
+    <string name="decremento">5% Decrease</string>
+    <string name="porcentaje">Percentage %</string>
+    <string name="resultado">Result</string>
+    <string name="seleccion">Select Format</string>
+    <string name="acerca_de">About</string>
+    <string name="pol_tica_de_privacidad">Privacy Policy</string>
+    <string name="mensaje">An ingenious brainchild of Magic Code Inc, PorcenSmart is the ultimate tool for performing percentage calculations quickly and easily. This versatile and user-friendly application allows users to calculate percentage increases and discounts accurately. Whether it\'s for business, personal finance, or schoolwork, PorcSmart is the perfect choice.</string>
+    <string name="porcsmart_pro">PorcSmart Pro</string>
+</resources>

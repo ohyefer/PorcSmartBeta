@@ -1,0 +1,22 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_help"
+        android:title="@string/acerca_de"
+        android:orderInCategory="5"
+        app:showAsAction="collapseActionView"/>
+
+    <item
+        android:id="@+id/action_police"
+        android:title="@string/pol_tica_de_privacidad"
+        android:orderInCategory="5"
+        app:showAsAction="collapseActionView"/>
+
+    <item
+        android:id="@+id/action_pro"
+        android:title="@string/porcsmart_pro"
+        android:orderInCategory="5"
+        app:showAsAction="collapseActionView"/>
+
+</menu>
