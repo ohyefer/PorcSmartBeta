@@ -1,6 +1,6 @@
 La aplicación "PorcSmart Beta" es una calculadora de porcentajes desarrollada por Magic Code Inc, diseñada para realizar cálculos de porcentaje de manera rápida, sencilla y precisa. Está construida como una aplicación Android nativa utilizando Java, con una interfaz de usuario basada en pestañas (tabs) que permite diferentes modos de cálculo. A continuación, te detallo su funcionalidad de manera exhaustiva:
 
-<img width="240" height="240" alt="imagen" src="https://github.com/user-attachments/assets/c2d5dfec-a5c9-46ee-bb32-11d006015beb" />
+<center><img width="240" height="240" alt="imagen" src="https://github.com/user-attachments/assets/c2d5dfec-a5c9-46ee-bb32-11d006015beb" /></center>
 
 *Estructura General de la App*
 - Nombre de la App: PorcSmart Beta
@@ -29,7 +29,7 @@ La app se divide en *3 pestañas principales*, cada una enfocada en un tipo de c
 - Ejemplo: Si ingresa 100 como valor inicial y 20% como porcentaje, el resultado es 20.00 (el 20% de 100).
 - Uso: Ideal para cálculos generales, como descuentos, intereses o proporciones simples.
 
-<img width="302" height="639" alt="imagen" src="https://github.com/user-attachments/assets/d6a7f93e-8af1-4682-a5df-cfcd85342d39" />
+<center><img width="302" height="639" alt="imagen" src="https://github.com/user-attachments/assets/d6a7f93e-8af1-4682-a5df-cfcd85342d39" /></center>
 
 
 *Pestaña 2: "5% Incremento"*
@@ -42,7 +42,7 @@ La app se divide en *3 pestañas principales*, cada una enfocada en un tipo de c
 - Salida: Muestra el valor final y el monto del incremento en líneas separadas, ej.: "105.00\nIncremento de: +5.00".
 - Uso: Útil para calcular aumentos rápidos, como ajustes de precios o bonos.
 
-<img width="302" height="639" alt="imagen" src="https://github.com/user-attachments/assets/33b72082-a76b-493b-9c93-35789bce0b06" />
+<center><img width="302" height="639" alt="imagen" src="https://github.com/user-attachments/assets/33b72082-a76b-493b-9c93-35789bce0b06" /></center>
 
 *Pestaña 3: "5% Decremento"*
 - Propósito: Aplicar un descuento fijo del 5% al valor inicial.
@@ -54,7 +54,7 @@ La app se divide en *3 pestañas principales*, cada una enfocada en un tipo de c
 - Salida: Muestra el valor final y el monto del decremento en líneas separadas, ej.: "95.00\nDecremento de: -5.00".
 - Uso: Perfecto para calcular descuentos, rebajas o reducciones.
 
-<img width="304" height="639" alt="imagen" src="https://github.com/user-attachments/assets/4e9b05b1-225d-4c61-9bd4-150b37c62253" />
+<center><img width="304" height="639" alt="imagen" src="https://github.com/user-attachments/assets/4e9b05b1-225d-4c61-9bd4-150b37c62253" /></center>
 
 *Características Técnicas y de Diseño*
 - Arquitectura: Basada en Fragments con ViewPager para navegación por pestañas. Usa AppCompatActivity para compatibilidad.
