@@ -2,7 +2,7 @@ La aplicación "PorcSmart Beta" es una calculadora de porcentajes desarrollada p
 
 <img width="240" height="240" alt="imagen" src="https://github.com/user-attachments/assets/c2d5dfec-a5c9-46ee-bb32-11d006015beb" />
 
-*Estructura General de la App*
+### *Estructura General de la App*
 - Nombre de la App: PorcSmart Beta
 - Desarrollador: Magic Code Inc
 - Plataforma: Android (compatible con versiones modernas, incluyendo soporte para edge-to-edge en Android 15+)
@@ -12,7 +12,7 @@ La aplicación "PorcSmart Beta" es una calculadora de porcentajes desarrollada p
 
 La app utiliza un diseño moderno con una barra de herramientas (toolbar), pestañas (tabs) y un ViewPager para navegar entre secciones. Cada pestaña cambia el color de la interfaz (amarillo, azul, rosa) para una experiencia visual diferenciada. Incluye un menú de opciones con "Acerca de", "Política de Privacidad" (enlace a un sitio web) y un enlace directo a la versión Pro.
 
-*Funcionalidades Principales*
+### *Funcionalidades Principales*
 La app se divide en *3 pestañas principales*, cada una enfocada en un tipo de cálculo de porcentaje. Todas comparten elementos comunes como:
 - Campo de Valor Inicial: Para ingresar el número base.
 - Campo de Porcentaje: Solo visible en la primera pestaña; en las otras está oculto y usa un porcentaje fijo.
@@ -55,7 +55,7 @@ La app se divide en *3 pestañas principales*, cada una enfocada en un tipo de c
 
 <img width="304" height="639" alt="imagen" src="https://github.com/user-attachments/assets/4e9b05b1-225d-4c61-9bd4-150b37c62253" />
 
-*Características Técnicas y de Diseño*
+### *Características Técnicas y de Diseño*
 - Arquitectura: Basada en Fragments con ViewPager para navegación por pestañas. Usa AppCompatActivity para compatibilidad.
 - UI/UX:
   - Diseño responsivo con soporte para edge-to-edge (pantallas modernas sin bordes).
@@ -68,7 +68,7 @@ La app se divide en *3 pestañas principales*, cada una enfocada en un tipo de c
 - Dependencias: Usa librerías estándar de Android, incluyendo Google Mobile Ads y ViewPager.
 - Pruebas: Incluye pruebas unitarias (ExampleUnitTest) e instrumentadas (ExampleInstrumentedTest).
 
-*Propósito y Casos de Uso*
+### *Propósito y Casos de Uso*
 Según la descripción oficial: "PorcenSmart es la herramienta definitiva para realizar cálculos de porcentaje de manera rápida y sencilla. Esta aplicación versátil y amigable permite a los usuarios calcular incrementos y descuentos de porcentaje con precisión. Ya sea para negocios, finanzas personales o tareas escolares, PorcSmart es la elección perfecta."
 
 Es ideal para:
